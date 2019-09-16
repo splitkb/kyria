@@ -3,7 +3,7 @@ Kyria Acrylic Plate Case
 
 This is a case for the Kyria, compatible with revision 0.7 and up.
 
-![Kyria Acrylic Plate Case](./Plate Case.png)
+![Kyria Acrylic Plate Case](./Plate%20Case.png)
 
 This case supports MX switches only.
 
