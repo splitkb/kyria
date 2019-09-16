@@ -4,7 +4,7 @@ The Kyria is a split keyboard kit by Thomas Baart of [splitkb.com](https://split
 
 ## High Profile Case
 
-The high profile case covers both the top, bottom and the sides. When cut from frosted acrylic, this provides a nicely diffused effect.
+The high profile case covers both the top, bottom and the sides. When cut from frosted acrylic, this provides a nicely diffused effect inc combination with underglow.
 
 ![High Profile Case](./High%20Profile%20Case/High%20Profile%20Case.png)
 
