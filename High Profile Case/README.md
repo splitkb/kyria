@@ -3,6 +3,8 @@ Kyria High Profile Acrylic Case
 
 This is a case for the Kyria, compatible with revision 0.7 and up.
 
+This case supports MX switches only.
+
 To make a case, you'll need to cut the following files out of 3mm thick acrylic:
 
 - 2 × 01 Base.dxf
