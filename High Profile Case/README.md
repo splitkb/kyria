@@ -1,7 +1,9 @@
-Kyria High Profile Acrylic Case
+Kyria Acrylic High Profile Case
 ===============================
 
 This is a case for the Kyria, compatible with revision 0.7 and up.
+
+![Kyria Acrylic High Profile Case](./High Profile Case.png)
 
 This case supports MX switches only.
 
