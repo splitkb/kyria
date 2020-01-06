@@ -15,6 +15,6 @@ To make a case, you'll need to cut the following files out of 3mm thick acrylic:
 
 Furthermore, you'll need:
 
-- 36 × 6mm M2 machine screw
+- 36 × 5mm M2 machine screw
 - 14 × 6mm M2 round spacer
 - 4 × 12mm M2 round spacer
