@@ -5,7 +5,7 @@ This is a case for the Kyria, compatible with revision 0.7 and up.
 
 ![Kyria Acrylic Plate Case](./Plate%20Case.png)
 
-This case supports MX switches only.
+This case supports both MX and low profile Choc switches.
 
 To make a case, you'll need to cut the following files out of 3mm thick acrylic:
 
