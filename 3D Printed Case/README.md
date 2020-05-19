@@ -4,7 +4,7 @@ Kyria 3D Printed Case
 
 This is a 3D printed case for the Kyria, compatible with revision 0.7 and up.
 
-![Kyria Acrylic Plate Case](./images/left_case.jpg =500)
+![Kyria Acrylic Plate Case](./images/overhead_view.jpg)
 
 To make a case, you'll need to print:
 
