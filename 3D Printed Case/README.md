@@ -4,7 +4,7 @@ Kyria 3D Printed Case
 
 This is a 3D printed case for the Kyria, compatible with revision 0.7 and up.
 
-![Kyria Acrylic Plate Case](./images/overhead_view.jpg)
+![Kyria Acrylic Plate Case](./images/kyria_logo_case.png)
 
 To make a case, you'll need to print:
 
@@ -14,9 +14,18 @@ To make a case, you'll need to print:
 Furthermore, you'll need:
 
 - 14 of M2 x 10mm machine screws
-- 14 of M2 tapered heat-set inserts *(the ones used in the above photo are [Link](https://www.mcmaster.com/94180A312))*
+- 14 of M2 tapered heat-set inserts *(the ones used in the example photos below [Link](https://www.mcmaster.com/94180A312))*
 
 This case is designed to work with the same sized plate as the one in the "Plate Case". A STL to 3D print a plate is provided in the case files, but a laser cut metal or acryllic plate can also be used.
 
-Assembly Notes:
-- 
+## Assembly
+- Heat-set inserts should be slowly pressed into each "pillar" with the tip of a soldering iron set at the same temperature as your 3D printer nozzle temperature.
+
+## Build Photos
+![Left Case](./images/overhead_view.jpg)
+![Left Case](./images/left_case.jpg)
+![Left Case](./images/case.jpg)
+![Left Case](./images/left_closeup.jpg)
+![Left Case](./images/side_view.jpg)
+
+*Case Designed 2020 by Stephen Onnen*
