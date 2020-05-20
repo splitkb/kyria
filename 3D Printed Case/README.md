@@ -21,6 +21,7 @@ This case is designed to work with the same sized plate as the one in the "Plate
 
 ## Assembly
 - Heat-set inserts should be slowly pressed into each "pillar" with the tip of a soldering iron set at the same temperature as your 3D printer nozzle temperature.
+- Plate/PCB are mounted to the case body with screws going through both Plate and PCB, tightening onto the top of the switch plate to hold it firmly into the case.
 
 ## Build Photos
 ![Left Case](./images/overhead_view.jpg)
