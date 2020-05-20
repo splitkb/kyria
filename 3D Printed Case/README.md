@@ -15,6 +15,7 @@ Furthermore, you'll need:
 
 - 14 of M2 x 10mm machine screws
 - 14 of M2 tapered heat-set inserts *(the ones used in the example photos below [Link](https://www.mcmaster.com/94180A312))*
+- 2 x switch plates
 
 This case is designed to work with the same sized plate as the one in the "Plate Case". A STL to 3D print a plate is provided in the case files, but a laser cut metal or acryllic plate can also be used.
 
