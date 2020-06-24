@@ -29,4 +29,5 @@ This case is designed to work with the same sized plate as the one in the "Plate
 - Attach the tenting legs using the M3 bolts and M3 hex nuts.
 
 *Case Designed 2020 by Stephen Onnen*
+
 *Tenting Modifications 2020 by John Helveston*
