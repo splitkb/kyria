@@ -32,7 +32,7 @@ This case is designed to work with the same sized plate as the one in the "Plate
 ![](./images/top.jpg)
 ![](./images/mid.jpg)
 ![](./images/left.jpg)
-![](./images/right.jpg
+![](./images/right.jpg)
 ![](./images/back.jpg)
 
 *Case Designed 2020 by Stephen Onnen*
