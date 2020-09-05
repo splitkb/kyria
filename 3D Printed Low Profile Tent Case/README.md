@@ -28,6 +28,10 @@ This case is designed to work with the same sized plate as the one in the "Plate
 - Plate/PCB are mounted to the case body with screws going through both Plate and PCB, tightening onto the top of the switch plate to hold it firmly into the case. **Screws should be firm but not overtightened**
 - Attach the tenting legs using the M3 bolts and M3 hex nuts.
 
+## Build Photos
+![](./images/top.png)
+![](./images/right_front.png)
+
 *Case Designed 2020 by Stephen Onnen*
 
 *Tenting Modifications 2020 by John Helveston*
