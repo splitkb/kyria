@@ -1,7 +1,7 @@
 Kyria Acrylic High Profile Case
 ===============================
 
-This is a case for the Kyria, compatible with revision 0.7 and up.
+This is a case for the Kyria, compatible with revision 0.7 - 2.1. **It is not compatible with revision 3.0 and up** - files for revision 3 will be released later.
 
 ![Kyria Acrylic High Profile Case](./High%20Profile%20Case.png)
 

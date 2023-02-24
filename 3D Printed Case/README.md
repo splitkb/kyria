@@ -2,7 +2,7 @@
 Kyria 3D Printed Case
 ========================
 
-This is a 3D printed case for the Kyria, compatible with revision 0.7 and up.
+This is a 3D printed case for the Kyria, compatible with revision 0.7 - 2.1. **It is not compatible with revision 3.0 and up** - files for revision 3 will be released later.
 
 ![Kyria Acrylic Plate Case](./images/kyria_logo_case.png)
 
